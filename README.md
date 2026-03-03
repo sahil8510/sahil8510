@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, C language**
 
-- 💬 Ask me about **Python, Django**, **Django Rest Framework
+- 💬 Ask me about **Python, Django, Django Rest Framework, Fastapi**
 
 - 📫 How to reach me **sahil1261k@gmail.com**
 
